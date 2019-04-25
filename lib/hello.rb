@@ -1,4 +1,5 @@
 def hello_t(array)
+  if blo
   i = 0 
   
   while i < array.length
